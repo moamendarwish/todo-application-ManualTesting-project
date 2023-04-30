@@ -1,4 +1,4 @@
-
+this project for practicing manual testing ,writing test cases ,performing different test techniques here is the documentation of the app
 ### Hello and welcome to this Project.
 This is a simple React Web application that was made for my blogs, where i will be using to explain a specific topics in Cypress.
 
