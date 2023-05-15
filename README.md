@@ -1,6 +1,6 @@
 this project for practicing manual testing ,writing test cases ,performing different test techniques here is the documentation of the app
 ### Hello and welcome to this Project.
-This is a simple React Web application that was made for my blogs, where i will be using to explain a specific topics in Cypress.
+This is a simple React Web application where i will be using to perform different test techniques for different web-based App modules.
 
 ## Prerequisites:
 This app is using mongodb as the databse, you will need to create a new mongo atlas clustor to be able to run the app. To do that you can find many videos on youtube just search for `create new mongo clustor on atlas`
